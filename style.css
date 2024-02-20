@@ -1,20 +1,12 @@
-body {
-  background-color: gold;
+
+.important {
+    color: blue;
+    background-color: gold;
 }
 
-.plan {
-  color: blue;
+#title {
+    color: blue;
+    background-color: red;
 }
-
-.my-list-element {
-  font-weight: bold;
-}
-
-#special-heading {
-  font-size: 40px;
-  color: red;
-}
-
-.erste-paragraph {
-  font-family: "Times New Roman", Times, serif;
-}
+ 
+   
